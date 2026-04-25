@@ -19,7 +19,7 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=112Narr&color=0039A6&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ)
+![Profile Views](https://komarev.com/ghpvc/?username=BitcoinOfficer&color=0039A6&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ)
 
 </div>
 
@@ -110,12 +110,12 @@ impl Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=112Narr&theme=prussian&hide_border=false&border_color=0039A6&bg_color=0D1117&title_color=D52B1E&icon_color=0039A6&text_color=FFFFFF&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=112Narr&theme=prussian&hide_border=false&border=0039A6&background=0D1117&stroke=0039A6&ring=D52B1E&fire=D52B1E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=BitcoinOfficer&theme=prussian&hide_border=false&border_color=0039A6&bg_color=0D1117&title_color=D52B1E&icon_color=0039A6&text_color=FFFFFF&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=BitcoinOfficer&theme=prussian&hide_border=false&border=0039A6&background=0D1117&stroke=0039A6&ring=D52B1E&fire=D52B1E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=112Narr&theme=prussian&hide_border=false&border_color=0039A6&bg_color=0D1117&title_color=D52B1E&text_color=FFFFFF&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BitcoinOfficer&theme=prussian&hide_border=false&border_color=0039A6&bg_color=0D1117&title_color=D52B1E&text_color=FFFFFF&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="49%"/>
 
 </div>
 
@@ -125,7 +125,7 @@ impl Developer {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=112Narr&bg_color=0D1117&color=0039A6&line=D52B1E&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BitcoinOfficer&bg_color=0D1117&color=0039A6&line=D52B1E&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -185,6 +185,6 @@ t1MtJJhhiZxEJK33ZfgKb8Vc4hcR1swMxec
 
 *«Инструменты — это воплощение воли в код»*
 
-![Profile Views](https://komarev.com/ghpvc/?username=112Narr&color=D52B1E&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=BitcoinOfficer&color=D52B1E&style=flat-square)
 
 </div>
