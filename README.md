@@ -4,9 +4,36 @@
 
 <img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/BTC.png" width="100%">
 
-<br/>
+</div>
+
+---
+
+<div align="center">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="right" width="15%" valign="middle">
+<img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/CCCP.png" width="90" title="Герой Советского Союза"/>
+</td>
+<td align="center" width="70%" valign="middle">
+
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║     BitcoinOfficer  ·  Разработчик инструментов       ║
+║          Saint Petersburg, Russia                     ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BitcoinOfficer&color=0039A6&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ)
+
+</td>
+<td align="left" width="15%" valign="middle">
+<img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/CCCP.png" width="90" title="Герой Советского Союза"/>
+</td>
+</tr>
+</table>
 
 </div>
 
