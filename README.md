@@ -4,11 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/BTC.png" width="100%">
 
-</div>
+<img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/112.png" width="100%">
 
----
-
-<div align="center">
+<br/>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -34,6 +32,8 @@
 </td>
 </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/112.png" width="100%">
 
 </div>
 
@@ -190,6 +190,8 @@ t1MtJJhhiZxEJK33ZfgKb8Vc4hcR1swMxec
 ---
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/112.png" width="100%">
 
 *«Инструменты — это воплощение воли в код»*
 
