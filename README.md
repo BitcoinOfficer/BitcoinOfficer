@@ -24,6 +24,8 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=F7931A&background=00000000&center=true&vCenter=true&width=440&lines=Инструменты+для+криптовалют.;Разработка+крипто+инструментов.;Блокчейн+и+форензика.;Криптографические+системы.)](https://git.io/typing-svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=BitcoinOfficer&color=0039A6&style=for-the-badge&label=ПРОСМОТРЫ+ПРОФИЛЯ)
 
 </td>
@@ -94,6 +96,14 @@ impl Developer {
 
 ## ![](https://img.shields.io/badge/-Технологический_Стек-D52B1E?style=flat-square) Технологический Стек
 
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,python,js,java,aws,nginx,pytorch&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
 ### Системное & Прикладное Программирование
 
 ![C++](https://img.shields.io/badge/C++-%230039A6.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -130,6 +140,7 @@ impl Developer {
 <br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BitcoinOfficer&theme=prussian&hide_border=false&border_color=0039A6&bg_color=0D1117&title_color=D52B1E&text_color=FFFFFF&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BitcoinOfficer&theme=darkhub&no-frame=false&no-bg=true&margin-w=6&column=3&title=Stars,Commits,Repositories,Followers,Experience,Issues" width="49%"/>
 
 </div>
 
