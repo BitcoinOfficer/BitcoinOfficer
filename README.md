@@ -44,7 +44,8 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
 
-## ![](https://img.shields.io/badge/-О_Разработчике-0039A6?style=flat-square) О Разработчике
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0039A6&height=40&text=О%20Разработчике&fontSize=18&fontColor=FFFFFF&fontAlign=50&desc=Developer%20Profile&descSize=11&descAlign=50&descAlignY=80" width="100%"/></div>
+
 
 <table>
 <tr>
@@ -83,7 +84,8 @@ impl Developer {
 
 <div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
 
-## ![](https://img.shields.io/badge/-Криптовалютная_Экосистема-0039A6?style=flat-square) Криптовалютная Экосистема
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:F7931A&height=40&text=Криптовалютная%20Экосистема&fontSize=18&fontColor=FFFFFF&fontAlign=50&desc=Crypto%20Ecosystem&descSize=11&descAlign=50&descAlignY=80" width="100%"/></div>
+
 
 <div align="center">
 
@@ -101,7 +103,8 @@ impl Developer {
 
 <div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
 
-## ![](https://img.shields.io/badge/-Технологический_Стек-D52B1E?style=flat-square) Технологический Стек
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:D52B1E&height=40&text=Технологический%20Стек&fontSize=18&fontColor=FFFFFF&fontAlign=50&desc=Technology%20Stack&descSize=11&descAlign=50&descAlignY=80" width="100%"/></div>
+
 
 <div align="center">
 
@@ -139,7 +142,8 @@ impl Developer {
 
 <div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
 
-## ![](https://img.shields.io/badge/-Статистика_GitHub-0039A6?style=flat-square) Статистика GitHub
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0039A6&height=40&text=Статистика%20GitHub&fontSize=18&fontColor=FFFFFF&fontAlign=50&desc=GitHub%20Statistics&descSize=11&descAlign=50&descAlignY=80" width="100%"/></div>
+
 
 <div align="center">
 
@@ -157,7 +161,8 @@ impl Developer {
 
 <div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
 
-## ![](https://img.shields.io/badge/-График_Активности-D52B1E?style=flat-square) График Активности
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:D52B1E&height=40&text=График%20Активности&fontSize=18&fontColor=FFFFFF&fontAlign=50&desc=Activity%20Graph&descSize=11&descAlign=50&descAlignY=80" width="100%"/></div>
+
 
 <div align="center">
 
@@ -169,7 +174,8 @@ impl Developer {
 
 <div align="center"><img src="https://raw.githubusercontent.com/BitcoinOfficer/Assets/main/rain.svg" width="100%" height="80"/></div>
 
-## ![](https://img.shields.io/badge/-Поддержать_Проект-F7931A?style=flat-square&logo=bitcoin&logoColor=white) Поддержать Проект
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:F7931A&height=40&text=Поддержать%20Проект&fontSize=18&fontColor=FFFFFF&fontAlign=50&desc=Support%20the%20Project&descSize=11&descAlign=50&descAlignY=80" width="100%"/></div>
+
 
 <div align="center">
 
@@ -222,5 +228,9 @@ t1MtJJhhiZxEJK33ZfgKb8Vc4hcR1swMxec
 *«Инструменты — это воплощение воли в код»*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BitcoinOfficer&color=D52B1E&style=flat-square)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D52B1E,50:0039A6,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
